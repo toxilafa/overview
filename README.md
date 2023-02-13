@@ -39,8 +39,6 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>]
 
 [<img width="60px" height="40px" align="left" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" />][prisma]
 
-[<img width="40px" align="left" src="https://raw.githubusercontent.com/tannerlinsley/react-query/master/docs/src/images/emblem-light.svg" />][react-query]
-
 [<img width="30px" height="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />][tailwind]
 
 [<img width="40px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />][expressjs]
@@ -66,7 +64,6 @@ alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>]
 [nestjs]: https://nestjs.com/ "nestjs"
 [graphql]: https://graphql.org/ "graphql"
 [prisma]: https://www.prisma.io/ "prisma"
-[react-query]: https://react-query.tanstack.com/ "react-query"
 [tailwind]: https://tailwindcss.com/ "tailwind"
 [expressjs]: https://expressjs.com/ "expressjs"
 [git]: https://git-scm.com/ "git"
