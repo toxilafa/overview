@@ -14,6 +14,8 @@ Join me on linkedin where I share about projects I'm working on, tools I am usin
 
 [<img align="left" width="26px"
 alt="linkedin" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>][linkedin]
+<br />
+<br />
 
 <h2>Languages and Tools:</h2>
 
